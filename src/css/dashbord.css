@@ -1,0 +1,23 @@
+.navbar{
+    box-shadow: 10px 1px 8px #cbced1;
+}
+.sidebar .sidemenu .items ul {
+    list-style: none;
+}
+
+.sidebar .sidemenu .items ul li a {
+    text-decoration: none;
+    color: #6b6b6b;
+}
+
+.dashbord {
+    background: #ecf0f3;
+}
+
+.dashbord .icon-box {
+    background: #111;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    color: #fff;
+}

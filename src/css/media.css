@@ -1,0 +1,55 @@
+@media only screen and (max-width: 1400px), (max-width: 992px) {
+  .menu button {
+    display: none;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .sidebar .sidemenu .items ul li a {
+    font-size: 12px;
+  }
+  .sidebar .sidemenu .items .item-icons {
+    font-size: 12px;
+  }
+  .dashbord .home .card .card-body h4 {
+    font-size: 14px !important;
+  }
+  .dashbord .card .card-icon {
+    font-size: 22px;
+  }
+}
+@media (max-width: 991.98px) {
+  .login .img-box img {
+    width: 300px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .nav a img {
+    width: 70%;
+  }
+  .sidebar .sidemenu .items ul li a {
+    font-size: 9px;
+  }
+  .sidebar .sidemenu .items .item-icons {
+    font-size: 9px;
+  }
+  .dashbord .home .card .card-body h4 {
+    font-size: 18px !important;
+  }
+  .login .img-box img{
+    width:300px;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .sidebar .sidemenu .items ul li a {
+    font-size: 16px;
+  }
+  .sidebar .sidemenu .items .item-icons {
+    font-size: 16px;
+  }
+}
+
+/*@media only screen and (max-width:992px) {
+     .navbar{
+          display: none;
+      }
+  }*/

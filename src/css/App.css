@@ -1,0 +1,16 @@
+@import url(./media.css);
+@import url(./style.css);
+@import url(./dashbord.css);
+
+.drop-down-custom {
+  height: 40px;
+  font-weight: 500;
+  font-size: 12px !important;
+}
+.width {
+  width: 150px;
+}
+
+.profile-area {
+  display: inline;
+}
